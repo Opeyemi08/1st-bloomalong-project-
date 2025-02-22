@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
+body{
+    background-image:linear-gradient(to right,#15cbff ,#2b96ff);
+}
+.container{
+    background-color: white ;
+    width:70%;
+   margin:40px auto 0;
+   padding:35px;
+   border:3px solid black;
+   border-radius:2px ;
+}
+.logo{
+    width:25%;
+     border-radius:3px;
+}
+.wlcm{
+    margin-bottom:0px;   
+    font-size:1.25rem;
+    font-weight:500;
+  font-family: "Comforter", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.hero-title{
+    margin-top:-0.75rem;
+}
+.note{
+    width:80%;
+}
+.btn{
+    margin:15px 0 100px 0;
+    padding:7px 13px;
+    border:none;
+    background-color:rgb(0 ,200 ,255);    
+    color: white;
+    font-weight:bolder;
+    border-radius: 3px;
+    }
+.ctn{
+    border-bottom:1.5px solid #15cbff;
+}
